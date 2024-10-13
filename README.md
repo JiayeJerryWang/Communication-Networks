@@ -42,10 +42,10 @@
 
 ---
 
-## MP1: HTTP Client and Server
+## HTTP Client and Server
 
 ### Objective
-In this MP, you will implement a simple HTTP client and server. The client fetches files from a web server, and the server serves files to clients.
+Implement a simple HTTP client and server. The client fetches files from a web server, and the server serves files to clients.
 
 ### HTTP Client
 - The client should be executed as:
@@ -67,10 +67,10 @@ In this MP, you will implement a simple HTTP client and server. The client fetch
 
 ---
 
-## MP2: Reliable Data Transfer over UDP
+## Reliable Data Transfer over UDP
 
 ### Objective
-In this MP, you will implement a reliable transport protocol over UDP, similar to TCP.
+Implement a reliable transport protocol over UDP, similar to TCP.
 
 ### Sender
 - Use the function `reliablyTransfer()` to send files over the network:
@@ -96,10 +96,10 @@ In this MP, you will implement a reliable transport protocol over UDP, similar t
 
 ---
 
-## MP3: Link State and Distance Vector Routing
+## Link State and Distance Vector Routing
 
 ### Objective
-In this MP, you will implement both Link State and Distance Vector routing protocols.
+Implement both Link State and Distance Vector routing protocols.
 
 ### Link State Routing
 - Implement a program called `linkstate` that simulates the Link State routing algorithm.
